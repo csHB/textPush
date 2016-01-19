@@ -8,6 +8,8 @@ public class aaa {
 		System.out.println("zheshiwode");
 		
 		System.out.println("zheshiwode");
+
+		System.out.println("wwww");
 		
 	}
 
